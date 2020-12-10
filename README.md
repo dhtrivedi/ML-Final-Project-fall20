@@ -1,4 +1,4 @@
-# ML-Final-Project-fall20
+# ML-Final-Project-Fall-2020
 Course: Intoduction to Machine Learning (ECE-GY 6143,Fall 2020)
 
 Instructor: Professor Sundeep Rangan. https://github.com/sdrangan
